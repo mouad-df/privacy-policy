@@ -25,6 +25,4 @@ Enfin, le collaborateur peut introduire un recours devant les juridictions comp√
 
 
 
-## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
