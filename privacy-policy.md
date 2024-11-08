@@ -1,28 +1,61 @@
-# Mentions légales
+Privacy Policy
+Last updated: [Date]
 
+[Your Company Name] ("we," "us," or "our") operates the [App Name] mobile application (the "App") to enhance the user experience in coffee shops. This Privacy Policy explains how we collect, use, and protect user information when you use our App.
 
+1. Information We Collect
+a. Location Data
+Our App collects and uses location data to enable key features:
 
+Geofencing and Promotions: We detect when you are near or within a participating coffee shop to send you relevant notifications, promotions, or discounts.
+Order Placement: We use your location to confirm that you are in a coffee shop, allowing you to place orders from your table.
+Location data is collected only with your permission. You can disable location access through your device settings, though this may limit certain features of the App.
 
-En application des dispositions de la loi 09-08 relative à la protection des données à caractère personnel et du Règlement Général sur la protection des données applicable aux collaborateurs qui se trouvent sur le territoire de l'Union Européenne (RGPD), le collaborateur donne son consentement à [Définir le Responsable de traitement] à l'effet de traiter ses données personnelles collectées.
+b. Camera Access
+If you grant permission, our App may use the camera for specific features such as:
 
-Le responsable de traitement [Définir le Responsable de traitement] ne traite que des données à caractère personnel nécessaires ou utiles à l'exécution des présentes, au respect de ses obligations légales ou réglementaires ou pour ses intérêts légitimes. La fourniture de ces données est obligatoire et peut conditionner l'accès à cette plateforme, [A valider par vos soins].
+QR Code Scanning: To enhance in-app ordering or loyalty programs, allowing users to scan QR codes within the coffee shop.
+Camera data is used only within the App and is not stored on our servers. You can revoke camera access at any time through your device settings.
 
-La finalité du traitement et de l'enregistrement des informations recueillies par [Définir le Responsable de traitement], en tant que responsable de traitement, est de [Préciser en fonction de l'outil et/ou formulaire de collecte des données]. Ces informations sont destinées à [Préciser par vos soins]. Elles ne seront donc, en aucun cas, mises à la disposition de tierces personnes à l'exception de toute autorité administrative ou judiciaire bénéficiant du droit de communication.
+c. Device Information
+We may collect information about the device you use to access our App, including hardware model, operating system, and unique device identifiers. This helps us troubleshoot issues and improve app performance.
 
-Les données personnelles sont susceptibles d'impliquer des transferts vers un pays situé dans l'Union Européenne, ainsi que vers un pays situé hors de l'Union Européenne, sous réserve d'avoir prévu des garanties appropriées conformes à la législation en vigueur.
+d. Usage Data
+Our App may collect usage data, such as feature interactions, to understand how users engage with the App. This data helps us improve and optimize our services.
 
-Les données personnelles du collaborateur sont conservées pour la plus longue des durées nécessaires à l'accomplissement du service, au respect des obligations réglementaires et à la conservation de la preuve en matière contractuelle jusqu'à extinction des droits des parties.
+2. How We Use Your Information
+We use the information collected to:
 
-Le collaborateur justifiant de son identité et conformément à la loi 09-08 dispose d'un droit d'accès à ses données personnelles, d'un droit de rectification de celles-ci ainsi que du droit d'opposition, pour des motifs légitimes au traitement de ses données.
+Enhance the user experience within coffee shops.
+Send location-based notifications and promotions.
+Enable in-app ordering features.
+Improve our App’s performance and troubleshoot issues.
+Comply with legal obligations and resolve disputes.
+3. Data Sharing and Disclosure
+We do not sell, trade, or otherwise transfer your information to third parties except:
 
-En vertu du RGPD, le collaborateur dispose, en sus des droits susmentionnés prévus par la loi 09-08, d'un droit d'effacement, de limitation du traitement ainsi que le droit à la portabilité de ses données. Le collaborateur peut exercer ces droits, en adressant une demande à [Préciser le Contact].
+Service Providers: We may share information with trusted third-party service providers who assist us in operating the App, provided they agree to keep this information confidential.
+Legal Requirements: We may disclose your information if required by law or to protect the rights and safety of our users and others.
+4. Data Security
+We take reasonable precautions to protect your information from unauthorized access, alteration, or destruction. However, please understand that no method of electronic storage is 100% secure.
 
-Enfin, le collaborateur peut introduire un recours devant les juridictions compétentes, sans préjudice de son droit de soumettre une réclamation auprès de l'autorité de contrôle compétente s'il s'estime victime d'une violation de la réglementation relative à la protection des données à caractère personnel.
+5. Data Retention
+We retain your information only as long as necessary to provide the App's features and comply with our legal obligations. You may request the deletion of your data at any time by contacting us.
 
+6. Your Rights
+Depending on your location, you may have certain rights regarding your data, including:
 
+Access: You can request access to the personal information we hold about you.
+Correction: You may request corrections to any inaccuracies in your information.
+Deletion: You can request deletion of your data under certain circumstances.
+Withdrawal of Consent: You can withdraw your consent for data collection by adjusting the permissions on your device.
+To exercise these rights, please contact us at [Your Contact Email].
 
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Any changes will be posted on this page, and the "Last updated" date will be revised accordingly.
 
+8. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-
-
-
+Email: [Your Contact Email]
+Address: [Your Company Address]
