@@ -1,7 +1,7 @@
 Privacy Policy
 Last updated: [Date]
 
-[Your Company Name] ("we," "us," or "our") operates the [App Name] mobile application (the "App") to enhance the user experience in coffee shops. This Privacy Policy explains how we collect, use, and protect user information when you use our App.
+APPS2IMPACT we operates the ENCAFE mobile application to enhance the user experience in coffee shops. This Privacy Policy explains how we collect, use, and protect user information when you use our App.
 
 1. Information We Collect
 a. Location Data
@@ -49,7 +49,7 @@ Access: You can request access to the personal information we hold about you.
 Correction: You may request corrections to any inaccuracies in your information.
 Deletion: You can request deletion of your data under certain circumstances.
 Withdrawal of Consent: You can withdraw your consent for data collection by adjusting the permissions on your device.
-To exercise these rights, please contact us at [Your Contact Email].
+To exercise these rights, please contact us at info.apps2impact@gmail.com.
 
 7. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Any changes will be posted on this page, and the "Last updated" date will be revised accordingly.
@@ -57,5 +57,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 8. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-Email: [Your Contact Email]
-Address: [Your Company Address]
+Email:info.apps2impact@gmail.com
+Address: MEKNES, MOROCCO
