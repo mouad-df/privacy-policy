@@ -1,5 +1,4 @@
 Privacy Policy
-Last updated: [Date]
 
 APPS2IMPACT we operates the ENCAFE mobile application to enhance the user experience in coffee shops. This Privacy Policy explains how we collect, use, and protect user information when you use our App.
 
@@ -57,5 +56,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 8. Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-Email:info.apps2impact@gmail.com
+Email: info.apps2impact@gmail.com
 Address: MEKNES, MOROCCO
